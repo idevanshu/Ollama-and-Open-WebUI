@@ -63,4 +63,4 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 <p><strong>Verify</strong></p>
 <pre><code>sudo docker ps</code></pre>
 
-<p><strong>Open your webBrowser and go to port: 8080 </strong> http://localhost:8080 </p>
+<p><strong>Open your webBrowser and go to port: 8080 </strong> http://127.0.0.1:8080 </p>
